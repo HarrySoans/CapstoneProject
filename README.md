@@ -1,4 +1,4 @@
-# CapstoneProjectTemplate /* Next-gen-financial-learning-hub */
+# Next-gen-financial-learning-hub
 Summary
 Put a very high-level summary of the project.
 
